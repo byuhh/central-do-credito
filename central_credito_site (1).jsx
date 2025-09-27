@@ -1,7 +1,8 @@
 git remoto adicionar origem https://github.com/byuhh/central-do-credito.git
  git branch -M principal 
 git push -u origem principal
-  import { Card, CardContent } from "@/components/ui/card";
+
+import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
